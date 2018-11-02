@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "790048774893",
+    "firebase_url": "https://ilocate-6d0eb.firebaseio.com",
+    "project_id": "ilocate-6d0eb",
+    "storage_bucket": "ilocate-6d0eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790048774893:android:424ce1df835adf48",
+        "android_client_info": {
+          "package_name": "com.example.codetribe.ilocate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790048774893-iuv94q26sfug390k2eq5876udng50ps7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codetribe.ilocate",
+            "certificate_hash": "127db906049853aa84042f79f3eddb4cdcbcabea"
+          }
+        },
+        {
+          "client_id": "790048774893-kn2eo7qtqa5aj6cos93vvq9ha2ma1fto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5LG_70Fub19Q_i_6OvGV84qTWJRkdxRk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790048774893-kn2eo7qtqa5aj6cos93vvq9ha2ma1fto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

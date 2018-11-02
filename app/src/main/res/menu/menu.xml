@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/log_out"
+        android:title="Logout"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="withText"/>
+
+    <item android:id="@+id/get_loc"
+        android:title="My Location"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="withText"/>
+
+</menu>
